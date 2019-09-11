@@ -7,6 +7,8 @@ body{
 	line-height: 30px;
 }
 
+/* header styles */
+/* write your comment here */
 header{
 	background-color: #17202A;
 	text-align: center;
@@ -68,6 +70,11 @@ footer{
 
 footer p{
 	margin: 0;
+}
+
+footer a{
+	color:white
+	
 }
 
 p.caption{
